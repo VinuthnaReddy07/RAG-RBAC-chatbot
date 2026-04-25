@@ -108,7 +108,7 @@ Enter your query: What is my salary?
 
 ## Contributing
 
-This is an assignment project. For improvements or bug fixes, please create an issue or pull request on GitHub.
+For improvements or bug fixes, please create an issue or pull request on GitHub.
 
 ## License
 
