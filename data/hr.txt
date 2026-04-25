@@ -1,0 +1,38 @@
+Leave policy:
+Employees are entitled to 20 days of paid leave annually.
+
+Sick leave policy:
+Employees are entitled to 10 days of sick leave per year.
+
+Work from home policy:
+Employees can work remotely up to 2 days per week with manager approval.
+
+Performance review:
+Employees are evaluated twice a year.
+
+Employee ID 123:
+- Name: John
+- Role: Software Engineer
+- Leave taken: 5 days
+- Remaining leave: 15 days
+
+Employee ID 456:
+- Name: Sarah
+- Role: Data Analyst
+- Leave taken: 10 days
+- Remaining leave: 10 days
+
+Employee ID 789:
+- Name: Ravi
+- Role: HR Executive
+- Leave taken: 2 days
+- Remaining leave: 18 days
+
+Confidential:
+Employee personal records are private and accessible only to the respective employee and HR admins.
+
+Recruitment policy:
+Hiring is based on merit and equal opportunity principles.
+
+Promotion policy:
+Promotions are based on performance reviews and business needs.

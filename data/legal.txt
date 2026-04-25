@@ -1,0 +1,22 @@
+Summary: Company follows standard compliance and regulatory policies.
+
+Summary: All employees must comply with data privacy and protection laws.
+
+Summary: Intellectual property created during employment belongs to the company.
+
+Full: Employment contracts include clauses on confidentiality, non-compete, and termination.
+
+Full: Legal disputes are handled under jurisdiction-specific labor laws.
+
+Full: Vendor contracts include service-level agreements and liability clauses.
+
+Non-disclosure agreement (NDA):
+All employees must sign NDA before accessing sensitive data.
+
+Policy violation:
+Violation of company policies may lead to disciplinary action or termination.
+
+Compliance:
+The company adheres to international labor laws and corporate governance standards.
+
+Legal audits are conducted annually to ensure compliance.
